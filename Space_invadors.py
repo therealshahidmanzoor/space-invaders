@@ -6,6 +6,7 @@ import random
 from math import *
 from pygame import mixer
 pygame.init()
+print("added line no. 1 again in local repos.")
 # add game windo
 screen = pygame.display.set_mode((800, 600))
 
