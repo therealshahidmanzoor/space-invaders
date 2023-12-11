@@ -6,7 +6,7 @@ import random
 from math import *
 from pygame import mixer
 pygame.init()
-
+print("This line is added as a modification to the original code from github->forked->cloned locally")
 # add game windo
 screen = pygame.display.set_mode((800, 600))
 
