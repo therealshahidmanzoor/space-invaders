@@ -6,7 +6,6 @@ import random
 from math import *
 from pygame import mixer
 pygame.init()
-
 # add game windo
 screen = pygame.display.set_mode((800, 600))
 
